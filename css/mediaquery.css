@@ -1,0 +1,10 @@
+/* 1em = 1rem = 16px */
+
+/* below 1504 px smaller desktop*/
+@media (max-width: 94em) {
+  .container {
+    max-width: 900;
+    margin: 0 auto;
+    background: blue;
+  }
+}
